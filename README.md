@@ -1,0 +1,1 @@
+This data was compiled by Professor Colin Starger.  Please note: The CSV files include 2018 cases that are NOT officially part of the study conducted by Professor Starger and the data past 2017 is not reliable. 
